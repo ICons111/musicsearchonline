@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Images/about.png</file>
+        <file>Images/loop-hover.png</file>
+        <file>Images/min.png</file>
+        <file>Images/default.jpg</file>
+        <file>Images/next-hover.png</file>
+        <file>Images/pase-hover.png</file>
+        <file>Images/pre-hover.png</file>
+        <file>Images/quit.png</file>
+        <file>Images/skin.png</file>
+        <file>Images/pause.png</file>
+        <file>Images/about.jpg</file>
+        <file>Images/player.png</file>
+        <file>Images/1.jpg</file>
+        <file>Images/2.jpg</file>
+        <file>Images/3.jpg</file>
+        <file>Images/default2.jpg</file>
+        <file>Images/loop.png</file>
+        <file>Images/music.jpg</file>
+    </qresource>
+</RCC>
